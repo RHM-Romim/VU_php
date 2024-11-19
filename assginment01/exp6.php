@@ -1,0 +1,1 @@
+<!-- 6. Write a PHP script that prints all prime numbers between two given numbers. -->
